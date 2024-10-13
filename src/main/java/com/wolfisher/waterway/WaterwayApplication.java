@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class WaterwayApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(WaterwayApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(WaterwayApplication.class, args);
+    }
 
 }
